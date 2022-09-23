@@ -6,12 +6,12 @@ export const USER_CONFIG = {
   // 公众号APP_ID
   // 建议不要填这里，请使用文档中github secret的方法进行保密配置，保护您的隐私安全。
   // 如果你非要填这里也行。脚本也能运行
-  APP_ID: "",
+  APP_ID: "wx339b603409f69991",
   
   // 公众号APP_SECRET
   // 建议不要填这里，请使用文档中github secret的方法进行保密配置，保护您的隐私安全。
   // 如果你非要填这里也行。脚本也能运行
-  APP_SECRET: "",
+  APP_SECRET: "6ffe2254ba1e912f9667550c775a2793",
   
   // 是否给文字设置多彩颜色, 和emoji不兼容
   // 如果您使用了微信测试号的模板中含有emoji表情，请填 false
@@ -57,7 +57,7 @@ export const USER_CONFIG = {
   /**
    * 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔
    */
-  USERS: [
+  USERS: ["o4NJj6kxtb_iFP6jnI-rm05YQBvo","o4NJj6kgsctaIXaxTawTF2L2v6s4","o4NJj6pLMJKlq8u4YcRm9X0-OIGc","o4NJj6kRUQeIYF9FQxBQnZ-AxxWk"
     {
       // 想要发送的人的名字
       name: "老婆0",
@@ -95,40 +95,32 @@ export const USER_CONFIG = {
       ]
     },
     {
-      name: "老婆1",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: []
+      name: "jerry",
+      id: "o4NJj6kxtb_iFP6jnI-rm05YQBvo",
+      useTemplateId: "b1qc8laHm1B98wnHVW3lRnOQQNKDm_XZJEGQKHldwTI",
+      province: "四川",
+      city: "成都"
     },
     {
-      name: "老婆2",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: []
+       name: "Mmeng",
+      id: "o4NJj6kgsctaIXaxTawTF2L2v6s4",
+      useTemplateId: "b1qc8laHm1B98wnHVW3lRnOQQNKDm_XZJEGQKHldwTI",
+      province: "四川",
+      city: "成都"
     },
     {
-      name: "老婆3",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: []
+      name: "雪碧要去冰",
+      id: "o4NJj6pLMJKlq8u4YcRm9X0-OIGc",
+      useTemplateId: "b1qc8laHm1B98wnHVW3lRnOQQNKDm_XZJEGQKHldwTI",
+      province: "四川",
+      city: "成都"
+    },
+    {
+      name: "想喝杨枝甘露了",
+      id: "o4NJj6kRUQeIYF9FQxBQnZ-AxxWk",
+      useTemplateId: "b1qc8laHm1B98wnHVW3lRnOQQNKDm_XZJEGQKHldwTI",
+      province: "四川",
+      city: "成都"
     },
     // 你可以不断按格式往下增加
     // ...
