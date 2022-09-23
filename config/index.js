@@ -14,6 +14,6 @@ export const CONFIG = {
   APP_SECRET: "6ffe2254ba1e912f9667550c775a2793",
   USERS:["o4NJj6kxtb_iFP6jnI-rm05YQBvo","o4NJj6kgsctaIXaxTawTF2L2v6s4","o4NJj6pLMJKlq8u4YcRm9X0-OIGc","o4NJj6kRUQeIYF9FQxBQnZ-AxxWk"],
   province: "四川",
-  city: "成都",
+  city: "成都"
   }
 
