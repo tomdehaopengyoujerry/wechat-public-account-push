@@ -121,7 +121,7 @@ export const USER_CONFIG = {
       useTemplateId: "b1qc8laHm1B98wnHVW3lRnOQQNKDm_XZJEGQKHldwTI",
       province: "四川",
       city: "成都"
-    },
+    }
     // 你可以不断按格式往下增加
     // ...
   ],
