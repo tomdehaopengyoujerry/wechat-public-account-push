@@ -16,4 +16,4 @@ export const USER_CONFIG = {
   province: "四川",
   city: "成都",
   LITERARY_PREFERENCE: ""
-  }
+}
